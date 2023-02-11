@@ -1,4 +1,4 @@
-# ecommerce
+# Ecommerce website for construction materials
 ![Picture1](https://user-images.githubusercontent.com/94464085/218241328-96eebb41-c53b-4776-ba7a-793f3cd02350.png)
 ![Picture2](https://user-images.githubusercontent.com/94464085/218241333-dd099063-40d9-43b0-9581-7fab54dfb631.png)
 ![Picture3](https://user-images.githubusercontent.com/94464085/218241334-9d83024f-c1ae-4054-b19c-f29459c3b335.png)
